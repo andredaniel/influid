@@ -1,0 +1,27 @@
+{
+  "name": "influid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "parcel watch src/js/main.js --public-url ./",
+    "dev": "parcel src/js/main.js --public-url ./",
+    "build": "parcel build src/js/main.js --public-url ./"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "animejs": "^3.0.1",
+    "bootstrap": "^4.3.1",
+    "components": "^0.1.0",
+    "jquery": "^3.3.1",
+    "lib": "^3.0.2",
+    "owl.carousel": "^2.3.4",
+    "parcel-bundler": "^1.12.3",
+    "popper.js": "^1.15.0",
+    "typed.js": "^2.0.10"
+  },
+  "devDependencies": {
+    "sass": "^1.18.0"
+  }
+}

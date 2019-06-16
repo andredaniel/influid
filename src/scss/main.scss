@@ -1,0 +1,14 @@
+// Bootstrap
+@import "node_modules/bootstrap/scss/bootstrap";
+
+// Core
+@import "variables";
+@import "global";
+
+//Templates
+@import "buttons";
+
+//Components
+@import "navbar";
+@import "hero";
+@import "footer";

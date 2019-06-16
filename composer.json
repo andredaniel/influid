@@ -1,0 +1,20 @@
+{
+    "name": "andredaniel/influid",
+    "type": "wordpress-theme",
+    "description": "Influid starter theme",
+    "authors": [
+        {
+            "name": "André Daniel",
+            "email": "andre.fervilha@gmail.com",
+            "homepage": "https://github.com/andredaniel/"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "larapack/dd": "^1.1"
+    }
+}
