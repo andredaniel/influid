@@ -14,7 +14,7 @@
     "animejs": "^3.0.1",
     "bootstrap": "^4.3.1",
     "components": "^0.1.0",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "lib": "^3.0.2",
     "owl.carousel": "^2.3.4",
     "parcel-bundler": "^1.12.3",
